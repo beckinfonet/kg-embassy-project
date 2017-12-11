@@ -1,9 +1,9 @@
+const { apiKey } = require('./../../tobeignored')
+const { apiKey2 } = require('./../../tobeignored')
+const { appId } = require('./../../tobeignored')
 const axios = require('axios');
 
-let apiKey = '0ff6725d5653ccbb3364facf3e853c04';
-let appId = '7eea9141';
 
-let apiKey2 = 'e68e9cf049184afb8b8cfe66c254c34b';
 
 axios.defaults.headers.common['Accept'] = 'application/json';
 axios.defaults.headers.common['Content-Type'] = 'application/x-www-form-urlencoded';

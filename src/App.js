@@ -40,7 +40,7 @@ searchNewsByKeyword(){
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">World News In The Palm Of Your Hand!</h1>
+          <a className="App-title" href="https://www.facebook.com/kyrgyzstan.post/" target='__blank'>World News In The Palm Of Your Hand!</a>
         </header> 
 
 

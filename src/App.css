@@ -17,6 +17,7 @@
 
 .App-title {
   font-size: 2em;
+  color: white;
 }
 
 .App-intro {
@@ -55,7 +56,7 @@ a:hover{
 }
 
 a:visited {
-  color: purple;
+  color: rgb(252, 217, 252);
 }
 
 .searchBox {
