@@ -1,5 +1,5 @@
 {
-    "name": "button",
+    "name": "button-sb",
     "version": "1.0.10",
     "main": "lib/index.js",
     "module": "src/index.js",
@@ -15,5 +15,5 @@
         "react-dom": "^16.0.0",
         "styled-components": "^5.0.0"
     },
-    "gitHead": "c2990391011493baa98301d7012b61170a864458"
+    "gitHead": "3c93a464b7618224f269554f67d464d4a4479f5e"
 }

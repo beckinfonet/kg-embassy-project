@@ -1,8 +1,8 @@
 {
-    "name": "theme",
+    "name": "theme-sb",
     "version": "1.0.8",
     "main": "lib/index.js",
     "module": "src/index.js",
     "private": false,
-    "gitHead": "c2990391011493baa98301d7012b61170a864458"
+    "gitHead": "3c93a464b7618224f269554f67d464d4a4479f5e"
 }
