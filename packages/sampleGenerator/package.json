@@ -1,6 +1,6 @@
 {
     "name": "sample-generator-sb",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "main": "lib/index.js",
     "license": "MIT",
     "gitHead": "d56b3f27e6ce386fc4acb6bd4429016893ed2662"
