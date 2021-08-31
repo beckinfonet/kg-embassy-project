@@ -1,6 +1,6 @@
 {
     "name": "button-sb",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "main": "lib/index.js",
     "module": "src/index.js",
     "dependencies": {
@@ -8,7 +8,7 @@
         "react": "16.13.1",
         "react-dom": "16.13.1",
         "styled-components": "5.2.0",
-        "theme-sb": "^1.0.8"
+        "theme-sb": "^1.1.0"
     },
     "peerDependencies": {
         "react": "^16.0.0",
