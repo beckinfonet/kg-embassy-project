@@ -3,5 +3,5 @@
     "version": "1.0.3",
     "main": "lib/index.js",
     "module": "src/index.js",
-    "gitHead": "2c6aee4ce60957ea3bda639fb45d1af85a9fa76f"
+    "gitHead": "f43f56693d30fa29b9d45567d6e2fa08de66cbfb"
 }
