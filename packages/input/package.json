@@ -1,6 +1,6 @@
 {
     "name": "input",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "main": "lib/index.js",
     "module": "src/index.js",
     "dependencies": {
@@ -8,7 +8,7 @@
         "react": "16.13.1",
         "react-dom": "16.13.1",
         "styled-components": "5.2.0",
-        "theme": "^1.0.1"
+        "theme": "^1.0.2"
     },
     "peerDependencies": {
         "react": "^16.0.0",
