@@ -1,6 +1,6 @@
 {
   "name": "logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "license": "MIT",
   "gitHead": "c2990391011493baa98301d7012b61170a864458"
