@@ -1,5 +1,5 @@
 {
-    "name": "sample-generator",
+    "name": "sample-generator-sb",
     "version": "2.0.0",
     "main": "lib/index.js",
     "license": "MIT",
