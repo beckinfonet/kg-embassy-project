@@ -8,7 +8,6 @@
 
 ## Usage
 
--   `yarn dev` - This starts Storybook for viewing all the components locally.
 -   `yarn bootstrap` - This installs all of the packages and links dependent packages together.
 -   `yarn build` - This babelfies all of the packages and creates `/lib` folders for each one.
 -   `yarn test` - Run all linting and unit tests before committing.
