@@ -1,6 +1,6 @@
 {
     "name": "logger-sb",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "main": "lib/index.js",
     "license": "MIT",
     "gitHead": "3c93a464b7618224f269554f67d464d4a4479f5e"
