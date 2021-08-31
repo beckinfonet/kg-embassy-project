@@ -1,6 +1,6 @@
 {
     "name": "theme",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "main": "lib/index.js",
     "module": "src/index.js",
     "gitHead": "f43f56693d30fa29b9d45567d6e2fa08de66cbfb"
