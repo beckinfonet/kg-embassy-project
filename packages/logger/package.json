@@ -2,5 +2,6 @@
     "name": "logger",
     "version": "1.0.2",
     "main": "index.js",
-    "license": "MIT"
+    "license": "MIT",
+    "gitHead": "2c6aee4ce60957ea3bda639fb45d1af85a9fa76f"
 }
